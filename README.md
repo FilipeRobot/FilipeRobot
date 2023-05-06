@@ -39,4 +39,4 @@ Tenho 25 anos, moro em São Gonçalo/RJ adoro programação sou formado em Anali
 
 <br/>
 
-![Snake animation](https://github.com/FilipeRobot/FilipeRobot/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/FilipeRobot/FilipeRobot/blob/output/github-contribution-grid-snake.svg) -->
