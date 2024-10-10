@@ -4,7 +4,8 @@
     </a>
 </h1>
 
-Tenho 25 anos, moro em São Gonçalo/RJ adoro programação sou formado em Analise e Desenvolvimento de Sistemas pela Unicesumar.
+<div align="center">
+Sou um desenvolvedor apaixonado por tecnologia, moro em São Gonçalo/RJ e sou formado em Análise e Desenvolvimento de Sistemas pela UniCesumar. Atualmente estou focado em aprender o idioma Inglês. Estou sempre em busca de novos desadios e oportunidades para aprender e crescer como desenvolvedor. Seja bem-vindo ao meu GitHub!
 
 
 ### 🖥️ Tecnologias e Ferramentas: 
@@ -21,8 +22,10 @@ Tenho 25 anos, moro em São Gonçalo/RJ adoro programação sou formado em Anali
 
 <br/>
 
- - 🔭 atualmente em busca de uma oportunidade de trabalho como programador
- - 🌱 venho estudando java e seu framework mais popular o spring boot.
+<ul>
+ 🔭 atualmente em busca de uma oportunidade de trabalho como programador
+ <!-- 🌱 venho estudando java e seu framework mais popular o spring boot. -->
+</ul>
 
 ### 📫 Entre em contato
 <a href="mailto:filipe_lemos@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
@@ -40,3 +43,4 @@ Tenho 25 anos, moro em São Gonçalo/RJ adoro programação sou formado em Anali
 <br/>
 
 <!-- ![Snake animation](https://github.com/FilipeRobot/FilipeRobot/blob/output/github-contribution-grid-snake.svg) -->
+</div>
